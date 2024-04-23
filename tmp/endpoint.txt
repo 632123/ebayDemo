@@ -1,0 +1,2 @@
+{"userId":"001","endpoint":["resource A","resource B","resource C"]}
+{"userId":"002","endpoint":["resource A","resource B"]}
